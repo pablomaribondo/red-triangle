@@ -68,8 +68,8 @@ const createProgram = (gl, vertexShader, fragmentShader) => {
 
 // Função para redimensionar o canvas
 const resize = (canvas) => {
-  var displayWidth  = canvas.clientWidth;
-  var displayHeight = canvas.clientHeight;
+  const displayWidth  = canvas.clientWidth;
+  const displayHeight = canvas.clientHeight;
  
   if (canvas.width  !== displayWidth ||
       canvas.height !== displayHeight) {
