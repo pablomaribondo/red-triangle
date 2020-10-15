@@ -1,4 +1,4 @@
-#Hello World em OpenGL
+# Hello World em OpenGL
 
 **Exercício:** Desenvolver um programa utilizando OpenGL que desenhe um triângulo vermelho em um fundo branco.
 
